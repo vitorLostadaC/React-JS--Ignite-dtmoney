@@ -1,6 +1,7 @@
-# React-JS--Ignite-vtmoney
+# React-JS--Ignite-dtmoney
 
-<img src="src/_github/Screenshot_3.png">
+<img src="src/_github/telaInicial.png">
+<img src="src/_github/Modal.png">
 
 ## Installation
 
