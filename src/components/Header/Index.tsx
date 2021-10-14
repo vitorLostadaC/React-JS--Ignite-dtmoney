@@ -13,7 +13,7 @@ export default function Header(props: HeaderProps) {
       <Content>
         <img src={logo} alt="vt money" />
         <button type="button" onClick={props.onOpenNewTransactionModal}>
-          Nova trnasação
+          Nova tranasação
         </button>
       </Content>
     </Container>
