@@ -11,7 +11,7 @@ export default function Header(props: HeaderProps) {
       <Content>
         <img src={logo} alt="vt money" />
         <button type="button" onClick={props.onOpenNewTransactionModal}>
-          Nova tranasação
+          Nova transação
         </button>
       </Content>
     </Container>
